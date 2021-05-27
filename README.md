@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Quick Demo
-For a quick preview of the website in "COMPUTER", you can visit this link: <br>
+For a quick preview of the website in your "Computer/Mobile Phone", you can visit this link: <br>
 https://gerome-react-ecommerce.netlify.app/ <br>
-You can also visit the link using your mobile device, but I suggest that you open the link in your "COMPUTER" to write/view user reviews in the JSON server.
+But I suggest that you open clone this repository and follow the instruction below to write/view user reviews in the JSON server.
 
 ## Instructions
 
