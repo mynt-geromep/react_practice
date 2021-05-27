@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Quick Demo
 For a quick preview of the website in your "Computer/Mobile Phone", you can visit this link: <br>
-https://gerome-react-ecommerce.netlify.app/ <br>
+https://gerome-react-ecommerce.netlify.app/ <br><br>
 But I suggest that you clone this repository and follow the instructions below to write/view user reviews in the JSON server.
 
 ## Instructions
