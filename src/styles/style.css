@@ -210,14 +210,17 @@
     display: none;
   }
   .login-container {
-    padding: 60px;
-    margin: auto;
+    padding: 0px;
+    margin: auto auto;
     min-width: 300px;
     -webkit-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0);
             box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0);
   }
   .login {
-    width: 108vw;
+    width: 100vw;
+  }
+  .login-container input {
+    width: 91%;
   }
 }
 
